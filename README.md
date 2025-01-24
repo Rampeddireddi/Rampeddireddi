@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **Premium Portofolio Using React**
 
-- 🌱 I’m currently learning **React, K8s and DSA**
+- 🌱 I’m currently learning **React, Devops and DSA**
 
 - 👨‍💻 All of my projects are available at [github.com/rampeddireddi](github.com/rampeddireddi)
 
-- 📝 I regularly write articles on [gfg](gfg)
-
-- 💬 Ask me about **ExpressJs , AWS Cloud Services**
+- 💬 Ask me about **MERN stack and AWS Cloud Services**
 
 - 📫 How to reach me **rampeddireddi1@gmail.com**
 

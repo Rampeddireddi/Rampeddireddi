@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Premium Portofolio Using React**
 
-- 🌱 I’m currently learning **React, Devops and DSA**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [github.com/rampeddireddi](github.com/rampeddireddi)
 

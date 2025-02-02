@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Panasaramanna Peddireddi</h1>
 <h3 align="center">A passionate AWS Cloud & MERN Developer from India</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AWS+DEVELOPER+;MERN+DEVELOPER" alt="Typing SVG" /></a>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AWS+DEVELOPER+;MERN+DEVELOPER" alt="Typing SVG" /></a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rampeddireddi&label=Profile%20views&color=0e75b6&style=flat" alt="rampeddireddi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rampeddireddi" alt="rampeddireddi" /></a> </p>

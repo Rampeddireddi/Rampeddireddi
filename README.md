@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Panasaramanna Peddireddi</h1>
-<h3 align="center">A passionate AWS Cloud & MERN Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rampeddireddi&label=Profile%20views&color=0e75b6&style=flat" alt="rampeddireddi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rampeddireddi" alt="rampeddireddi" /></a> </p>
 
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Kafka**
 
 - 👨‍💻 All of my projects are available at [github.com/rampeddireddi](github.com/rampeddireddi)
 
-- 💬 Ask me about **MERN stack and AWS Cloud Services**
+- 💬 Ask me about **Full stack (Reactjs, Nodejs, Expressjs, Django, Postgrsql, Redis, Mongodb, Docker, Rabbitmq, Kafka, AWS)**
 
 - 📫 How to reach me **rampeddireddi1@gmail.com**
 

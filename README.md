@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Full stack (Reactjs, Nodejs, Expressjs, Django, Postgrsql, Redis, Mongodb, Docker, Rabbitmq, Kafka, AWS)**
 
-- 📫 How to reach me **rampeddireddi1@gmail.com**
+- 📫 How to reach me **23a95a0508@aec.edu.in** | **rampeddireddi1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,32 +1,120 @@
-<h1 align="center">Hi 👋, I'm Panasaramanna Peddireddi</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Peddireddi Panasaramanna</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rampeddireddi&label=Profile%20views&color=0e75b6&style=flat" alt="rampeddireddi" /> </p>
+<h3 align="center">
+Full Stack Engineer focused on scalable SaaS platforms, multi-tenant architectures, event-driven systems, and cloud-native applications.
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rampeddireddi" alt="rampeddireddi" /></a> </p>
-
-
-- 🌱 I’m currently learning **Kafka**
-
-- 👨‍💻 All of my projects are available at [github.com/rampeddireddi](github.com/rampeddireddi)
-
-- 💬 Ask me about **Full stack (Reactjs, Nodejs, Expressjs, Django, Postgrsql, Redis, Mongodb, Docker, Rabbitmq, Kafka, AWS)**
-
-- 📫 How to reach me **23a95a0508@aec.edu.in** | **rampeddireddi1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rampeddireddi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rampeddireddi1" height="30" width="40" /></a>
-<a href="https://instagram.com/rampeddireddi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rampeddireddi1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rampeddireddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rampeddireddi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rampeddiytd6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rampeddiytd6" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rampeddireddi&label=Profile%20Views&color=0e75b6&style=flat" alt="Rampeddireddi" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rampeddireddi" alt="Rampeddireddi" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rampeddireddi&show_icons=true&locale=en&layout=compact" alt="rampeddireddi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rampeddireddi&show_icons=true&locale=en" alt="rampeddireddi" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rampeddireddi&" alt="rampeddireddi" /></p>
+- 🔭 Building **Multi-Tenant SaaS Platforms**, **Authentication Systems**, and **Event-Driven Applications**
+- 🌱 Exploring **Distributed Systems**, **Cloud Infrastructure**, and **System Design**
+- 👯 Open to collaborating on **Backend**, **SaaS**, and **Developer Tooling** projects
+- 💬 Ask me about **Django, React, Node.js, Express.js, PostgreSQL, Redis, Docker, Kafka, RabbitMQ, Authentication, and System Design**
+- ⚡ Passionate about building production-ready software and scalable backend systems
+
+---
+
+## 🏗️ Currently Building
+
+- Multi-Tenant SaaS Analytics Platform
+- Authentication & OAuth Systems
+- Event-Driven Architectures
+- Real-Time Applications
+- Distributed Backend Services
+
+---
+
+## 🌐 Portfolio
+
+Showcasing independently built SaaS platforms, event-driven systems, backend services, and full-stack applications.
+
+### 🔗 https://ram-iota-seven.vercel.app/
+
+---
+## 🛠️ Tech Stack
+
+### Backend
+
+`Python` • `Django` • `Django REST Framework`
+`Node.js` • `Express.js`
+
+### Databases & Messaging
+
+`PostgreSQL` • `Redis`
+`Kafka` • `RabbitMQ`
+
+### Frontend
+
+`React` • `Next.js`
+`TypeScript` • `Tailwind CSS`
+
+### Infrastructure & DevOps
+
+`Docker` • `Docker Compose`
+`GitHub Actions` • `AWS`
+`Nginx` • `Vercel`
+`Cloudflare`
+
+### Developer Toolkit
+
+`Git` • `Linux`
+`Bash` • `SSH`
+`GNU Utilities` • `Postman`
+
+### Authentication & Security
+
+`OAuth 2.0` • `JWT`
+`Role-Based Access Control`
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **rampeddireddi1@gmail.com**
+- 📧 **23a95a0508@aec.edu.in**
+- 💼 **LinkedIn:** https://linkedin.com/in/rampeddireddi1
+- 💻 **GitHub:** https://github.com/Rampeddireddi
+- 🧩 **LeetCode:** https://leetcode.com/u/rampeddireddi/
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rampeddireddi&show_icons=true&locale=en&layout=compact" alt="Rampeddireddi" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rampeddireddi&show_icons=true&locale=en" alt="Rampeddireddi" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rampeddireddi" alt="Rampeddireddi" />
+</p>
+
+---
+
+## 🎯 Engineering Interests
+
+- Multi-Tenant SaaS Architecture
+- Distributed Systems
+- Event-Driven Architecture
+- Authentication & Authorization
+- Cloud-Native Applications
+- Backend Performance Optimization
+
+---
+
+> Building scalable software, continuously learning, and solving real-world engineering problems.

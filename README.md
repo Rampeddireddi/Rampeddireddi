@@ -8,12 +8,6 @@ Full Stack Engineer focused on scalable SaaS platforms, multi-tenant architectur
   <img src="https://komarev.com/ghpvc/?username=Rampeddireddi&label=Profile%20Views&color=0e75b6&style=flat" alt="Rampeddireddi" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rampeddireddi" alt="Rampeddireddi" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -91,14 +85,6 @@ Showcasing independently built SaaS platforms, event-driven systems, backend ser
 ---
 
 ## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rampeddireddi&show_icons=true&locale=en&layout=compact" alt="Rampeddireddi" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rampeddireddi&show_icons=true&locale=en" alt="Rampeddireddi" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rampeddireddi" alt="Rampeddireddi" />
